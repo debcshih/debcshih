@@ -1,16 +1,27 @@
-## Debbie Shih 👋
+## Debbie Shih
 
-<!--
-**debcshih/debcshih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Audit & Compliance | Technology Risk & GRC**
 
-Here are some ideas to get you started:
+Audit and compliance professional building technical cybersecurity expertise through the SANS Cyber Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Technology Risk
+- IT Audit
+- Cybersecurity GRC
+- Risk & Controls
+- Governance & Compliance
+
+## Credentials
+
+- GSEC
+- CISA
+- CCSK
+- ISO/IEC 27001 Provisional Implementer
+- Security+
+- GFACT
+- MBA
+
+## Projects
+
+*Portfolio projects coming soon.*
